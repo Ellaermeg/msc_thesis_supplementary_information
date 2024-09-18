@@ -13,7 +13,10 @@ An overview of its contents is given below.
 |:---:|---:|:---|
 |1|Raw trait dataset from various sources|database/raw_data|
 |2|Scripts for preparing datasets|database/scripts|
-|3|Prepared trait datasets from various sources|database/preprared_data|
+|3|Prepared trait datasets from various, hihi
+
+
+sources|database/preprared_data|
 |4|Output of the dataset assembly and analysis|database/output_files|
 |5|NCBI overview of prokaryotes|sequences/ncbi_prokaryotes.txt|
 |6|Protein sequence acquisition and verification|sequences/protein_checks|
